@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pamperedcook23">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Elizabeth" alt="Hello! I&#39;m Elizabeth" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Elizabeth" alt="Hello! I&#39;m Elizabeth" />
   </a>
 </p>
 
@@ -40,12 +40,6 @@ Computer Science &amp; Technology student with a paralegal education and public 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elizabeth-cook-0a1582354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pamperedcook23&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
